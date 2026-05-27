@@ -19,7 +19,7 @@ body[data-mode='light'] {
   --font-color: #373737;
   --font-color-invert: #fff;
   --font-color-navbar: #4b4b4b;
-  --font-color-navbar-custom: #4b4b4b;
+  --font-color-navbar-custom: #1e7a8e;
   --font-color-light-1: #737373;
   --font-color-light-2: #9b9b9b;
   --font-color-light-3: #cdcdcd;
@@ -52,7 +52,7 @@ body[data-mode='dark'] {
   --font-color: #bebec6;
   --font-color-invert: #fcfcfc;
   --font-color-navbar: #bebec6;
-  --font-color-navbar-custom: #bebec6;
+  --font-color-navbar-custom: #8b3a3a;
   --font-color-light-1: #9595a2;
   --font-color-light-2: #808090;
   --font-color-light-3: #5b5b67;
