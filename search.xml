@@ -7,12 +7,12 @@
      data-hbe-format="4"
      data-wpm="Oh, this is an invalid password. Check and try again, please."
      data-whm="Oh, this is an invalid password. Check and try again, please."
-     data-salt="3c25d1bc08d9c484be75333e5d2544817da3363e65fd4c11c6a7b09215433238"
-     data-nonce="6e25e898e54a8708e15db896"
+     data-salt="99062d24c47f336568a3a761add7adb86264ef0e978dfcb6621ec5a003450bb9"
+     data-nonce="85bf8c7f2bdab653e551ba7d"
      data-kdf-iterations="250000"
      data-auto-save="false">
   <script id="hbeData" type="hbeData">
-    f06a58deda92d9fe83cae5fd32d636e1599372e1f663426d0a46d671ae7d103e88a7c32352469842
+    dbf31ef0dd53465c4356031b72338bfaca6d7009a8493009d138da88b75ebea0d721f18b09570635
   </script>
   <div class="hbe hbe-content">
     <form id="hbeForm" class="hbe hbe-form" onsubmit="return false">
