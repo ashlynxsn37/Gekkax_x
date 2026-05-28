@@ -1838,7 +1838,7 @@ body[data-mode="dark"] .home-article-info .icon {
 }
 .post-nav >a:after {
   content: "";
-  background-image: url("/Gekkax_x/assets/images/Hexo-Theme-MEOW.png");
+  background-image: url("/Gekkax_x/assets/images/mytheme.png");
   background-size: cover;
   position: absolute;
   top: 0;
