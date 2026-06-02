@@ -43,7 +43,7 @@ document.body.setAttribute('data-mode', localStorage.getItem('color-mode'));
       serverURL: 'https://comment.yuexxmoon.top',
       lang: 'zh-CN',
       dark: 'body[data-mode="dark"]',
-      emoji: null,
+      emoji: ["https://unpkg.com/@waline/emojis@1.4.0/tw-emoji"],
       reaction: null,
       path: window.location.pathname.replace(/([^\/#]+)(?:#.+|)$/,'$1/'),
     }, null))
